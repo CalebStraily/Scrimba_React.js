@@ -1,0 +1,28 @@
+.header-row
+{
+    background-color: rgba(128, 128, 128, 0.363);
+    border-radius: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px
+}
+
+.body-row
+{
+    background-color: rgba(128, 128, 128, 0.363);
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+
+.info-row
+{
+    background-color: rgba(128, 128, 128, 0.363);
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+
+.footer-row
+{
+    background-color: rgba(128, 128, 128, 0.363);
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
